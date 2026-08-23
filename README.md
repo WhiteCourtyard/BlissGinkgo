@@ -1,7 +1,7 @@
-# 幸葉 · 幸語 #
+<h1 align="center">幸葉 · 幸語</h1>
 
-<p align="center">  BlissGinkgo  </p>
-<p align="center">  幸語銀杏 · 常伴喜樂  </p>
+<p align="center"><strong>  BlissGinkgo  </strong></p>
+<p align="center"><strong>  幸語銀杏 · 常伴喜樂 </strong></p>
 <p align="center">  2026-08-22 v1.038  </p>
 
   
