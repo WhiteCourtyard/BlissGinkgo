@@ -1,10 +1,16 @@
 # 幸葉 · 幸語 #
-BlissGinkgo  
-**幸語銀杏 · 常伴喜樂**  
-  2026-08-22 v1.038
+
+<p align="center">  BlissGinkgo  </p>
+<p align="center">  幸語銀杏 · 常伴喜樂  </p>
+<p align="center">  2026-08-22 v1.038  </p>
+
   
        
-  <img width="300" height="300" alt="WC3-2" src="https://raw.githubusercontent.com/WhiteCourtyard/BlissGinkgo/refs/heads/main/blissginkgo.png" />
+  <p align="center">
+    <img width="300" height="300" alt="WC3-2" src="https://raw.githubusercontent.com/WhiteCourtyard/BlissGinkgo/refs/heads/main/blissginkgo.png" />
+  </p>
+  
+---
 
 ### [HTML檔]
 在誰手里呢?
