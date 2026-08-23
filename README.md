@@ -3,9 +3,6 @@
 <p align="center"><strong>  BlissGinkgo  </strong></p>
 <p align="center"><strong>  幸語銀杏 · 常伴喜樂 </strong></p>
 <p align="center">  2026-08-22 v1.038  </p>
-
-  
-       
   <p align="center">
     <img width="300" height="300" alt="WC3-2" src="https://raw.githubusercontent.com/WhiteCourtyard/BlissGinkgo/refs/heads/main/blissginkgo.png" />
   </p>
