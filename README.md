@@ -24,5 +24,5 @@
 幸葉圖webp檔:
 - https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_webp_400.zip  
 
-### [清理jsDelivr CDN Cache]
-https://www.jsdelivr.com/tools/purge
+### [清理 jsDelivr CDN Cache]
+- https://www.jsdelivr.com/tools/purge
