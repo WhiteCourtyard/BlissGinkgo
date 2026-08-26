@@ -6,8 +6,7 @@
   <p align="center">
     <img width="300" height="300" alt="WC3-2" src="https://raw.githubusercontent.com/WhiteCourtyard/BlissGinkgo/refs/heads/main/blissginkgo.png" />
   </p>
-  
----
+<p align="center">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ </p>
 
 ### [HTML檔]
 在誰手里呢?
