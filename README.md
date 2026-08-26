@@ -13,12 +13,16 @@
   
 ### [圖片壓縮檔]    
 #### PNG原檔  
-背景圖PNG原檔: 60M，超出Github上傳限制。得找我傳送咯  
-幸葉圖PNG原檔: https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_png_400.zip     
+背景圖PNG原檔: 
+- 60M，超出Github上傳限制。得找我傳送咯  
+幸葉圖PNG原檔: 
+- https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_png_400.zip     
 
 #### webp檔  
-背景圖webp檔: https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/bg_webp_1920.zip  
-幸葉圖webp檔: https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_webp_400.zip  
+背景圖webp檔: 
+- https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/bg_webp_1920.zip  
+幸葉圖webp檔:
+- https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_webp_400.zip  
 
 ### [清理jsDelivr CDN Cache]
 https://www.jsdelivr.com/tools/purge
