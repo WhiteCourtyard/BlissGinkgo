@@ -19,3 +19,6 @@
 #### webp檔  
 背景圖webp檔: https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/bg_webp_1920.zip  
 幸葉圖webp檔: https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_webp_400.zip  
+
+### [清理jsDelivr CDN Cache]
+https://www.jsdelivr.com/tools/purge
