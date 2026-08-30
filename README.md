@@ -16,7 +16,7 @@
   
 ### [圖片壓縮檔]    
 #### 備選背景圖 - PNG原檔  
-貓咪背景圖:  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-17-cat
+石板路貓咪:  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-17-cat
 
 #### PNG原檔  
 背景圖PNG原檔: 
