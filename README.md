@@ -11,9 +11,13 @@
 ### [HTML檔]
 在誰手里呢?
 
-貓咪背景圖:  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-17-cat
+
+
   
 ### [圖片壓縮檔]    
+#### 備選背景圖 - PNG原檔  
+貓咪背景圖:  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-17-cat
+
 #### PNG原檔  
 背景圖PNG原檔: 
 - 60M，超出Github上傳限制。得找我傳送咯  
