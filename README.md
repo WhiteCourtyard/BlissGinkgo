@@ -13,7 +13,8 @@
 
 
 ### [2. 圖片壓縮檔] 
-#### 2.1 備選背景圖 [PNG原檔]  
+#### 2.1 備選背景圖 
+#### 2.1.1 PNG原檔  
 **bg01-銀杏葉    :**  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-01-leaf  
 **bg17-石板路貓咪:**  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-17-cat  
 **bg20-由你設計  :**  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/bg-20-paper  
@@ -24,7 +25,7 @@
 **背景圖PNG原檔:**  https://github.com/WhiteCourtyard/BlissGinkgo/tree/main/png/homePNG  
 **幸葉圖PNG原檔:**  https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_png_400.zip      
 
-#### 2.2.2webp檔  
+#### 2.2.2 webp檔  
 **背景圖webp檔:**  https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/bg_webp_1920.zip  
 **幸葉圖webp檔:**  https://github.com/WhiteCourtyard/BlissGinkgo/blob/main/leaf_webp_400.zip  
 
